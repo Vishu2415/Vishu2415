@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishu2415
 - 👀 I’m interested in Gaming ,Coding.
-- 🌱 I’m currently learning Game Development.
+- 🌱 I’m currently learning Web Development and Game development.
 - 📫 How to reach me @vishnuverma24102002@gmail.com.
 
 <!---
